@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Foosball</string>
+    <string name="person">Person</string>
+    <string name="score">Score</string>
+    <string name="player1_name">Player1 name</string>
+    <string name="player2_name">Player2 name</string>
+    <string name="save">Save</string>
+    <string name="sort_by_games">Sort by games</string>
+    <string name="sort_by_wins">Sort by wins</string>
+    <string name="winners_sorted_by_games_quantity">Winners sorted by games quantity:</string>
+    <string name="winners_sorted_by_wins">Winners sorted by wins:</string>
+    <string name="all_games">All games</string>
+
+    <string name="error_message_empty_fields">All fields should be filled</string>
+
+</resources>
